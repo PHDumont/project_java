@@ -1,4 +1,4 @@
-public class ConditionalStatements02 {
+public class C3ConditionalStatements02 {
     public static void main(String[] args) {
         double annualSalary = 70000;
         double firstTax = 9.7 / 100;

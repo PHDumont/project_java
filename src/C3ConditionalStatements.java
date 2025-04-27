@@ -1,4 +1,4 @@
-public class ConditionalStatements {
+public class C3ConditionalStatements {
     public static void main(String[] args) {
         int age = 20;
         boolean isAllowedToBuyAlcohol = age >= 18;
