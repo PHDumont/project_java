@@ -1,4 +1,4 @@
-public class PrimitiveTypes {
+public class C1PrimitiveTypes {
     public static void main(String[] args) {
         int age = 10;
         long bigNumber = 10000;

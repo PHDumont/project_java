@@ -1,4 +1,4 @@
-public class PrimitiveTypesExercise {
+public class C1PrimitiveTypesExercise {
     public static void main(String[] args) {
         var name = "Peter";
         var address = "Brazil";

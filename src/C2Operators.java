@@ -1,4 +1,4 @@
-public class Operators {
+public class C2Operators {
     public static void main(String[] args) {
         // + - / *
         int number01 = 10;
