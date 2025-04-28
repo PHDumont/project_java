@@ -1,3 +1,5 @@
+package introduction;
+
 public class C3ConditionalStatements02 {
     public static void main(String[] args) {
         double annualSalary = 70000;

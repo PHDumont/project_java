@@ -1,3 +1,5 @@
+package introduction;
+
 public class C5Arrays02 {
     public static void main(String[] args) {
        int[] numbers = new int[3];

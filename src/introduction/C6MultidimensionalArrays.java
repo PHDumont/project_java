@@ -1,3 +1,5 @@
+package introduction;
+
 public class C6MultidimensionalArrays {
     public static void main(String[] args) {
         int[][] days = new int[2][2];

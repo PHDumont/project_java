@@ -1,3 +1,5 @@
+package introduction;
+
 public class C5Arrays {
     public static void main(String[] args) {
         //byte, short, double, float, long, int = 0

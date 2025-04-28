@@ -1,3 +1,5 @@
+package introduction;
+
 public class C6MultidimensionalArrays02 {
     public static void main(String[] args) {
         int[][] array = new int[3][];

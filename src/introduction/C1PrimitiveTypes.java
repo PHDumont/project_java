@@ -1,3 +1,5 @@
+package introduction;
+
 public class C1PrimitiveTypes {
     public static void main(String[] args) {
         int age = 10;
